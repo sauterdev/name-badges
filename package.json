@@ -62,5 +62,9 @@
     "bracketSpacing": true,
     "jsxBracketSameLine": false,
     "fluid": false
-  }
+  },
+  "description": "This is an exmaple application from Steve's React and TypeScript course.",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }
